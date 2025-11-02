@@ -30,9 +30,9 @@ Minha missão é transformar a teoria em código prático, preparando a próxima
 
 ### 📊 Minhas Estatísticas
 
-[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=[igormelol]&show_icons=true&theme=vue)](https://github.com/[igormelol])
+[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igormelol&show_icons=true&theme=vue)](https://github.com/igormelol)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[igormelol]&layout=compact&theme=vue)](https://github.com/[igormelol])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igormelol&layout=compact&theme=vue)](https://github.com/igormelol)
 
 ---
 
