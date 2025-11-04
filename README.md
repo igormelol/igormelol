@@ -22,7 +22,7 @@ Minha missão é transformar a teoria em código prático, preparando a próxima
 | :--- | :--- | :--- |
 | **Back-end** | `C#`, `.NET Core`, `PHP`, `MySQL`, `SQL` | Lógica, CRUD e Banco de Dados. |
 | **Front-end** | `JavaScript`, `React.js`, `HTML5`, `CSS3`, `Bootstrap` | Componentização, Interfaces e Responsividade. |
-| **Mobile** | `React Native` (Introdução) | Configuração de Ambiente e Criação de Apps Básicos. |
+| **Mobile** | `React Native` | Configuração de Ambiente e Criação de Apps Básicos. |
 | **Ferramentas** | `Git`, `GitHub`, `Node.js`, `Android Studio` | Versionamento, Colaboração e Fluxo de Trabalho. |
 | **Educação** | `Andragogia`, `Desenvolvimento de Conteúdo Didático` | Estruturação de Currículo e Metodologias de Ensino. |
 
